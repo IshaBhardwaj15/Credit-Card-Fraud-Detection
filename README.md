@@ -1,5 +1,9 @@
 # Credit-Card-Fraud-Detection
 
+Link to download dataset:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+PS: couldnt attach the csv in the repo as the dataset is a huge file of 69MB
+
 About Dataset
 
 Context
